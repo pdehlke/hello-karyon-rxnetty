@@ -14,5 +14,5 @@
 java -jar build/libs/hello-karyon-rxnetty-all-0.1.0.jar
 ```
 
-Added this line to trigger a builds
+Added this line to trigger builds
 
